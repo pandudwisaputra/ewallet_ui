@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+UI from https://www.figma.com/file/mlZMAvryaWxlstX4qKlw9A/Wallet-App-(Community)-(Community)?node-id=36%3A339&t=S1Wmf7VQvRvCLzUs-0 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
